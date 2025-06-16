@@ -62,3 +62,4 @@ app/
 ├── tests/              # pytest-тесты
 ├── config.py           # Настройки из .env
 ├── main.py             # Точка входа
+
