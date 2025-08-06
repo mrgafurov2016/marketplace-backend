@@ -61,4 +61,4 @@ app/
 ├── tasks/              # Celery задачи (отправка email)
 ├── tests/              # pytest-тесты
 ├── config.py           # Настройки из .env
-├── main.py             # Точка входа
+├── main.py             # Точка входa
